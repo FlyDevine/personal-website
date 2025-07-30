@@ -1,0 +1,25 @@
+baseURL = 'https://flydevine.github.io/personal-website/'
+languageCode = 'en-us'
+title = 'My Personal Website'
+theme = 'ananke'
+
+[params]
+  description = "Welcome to my personal website built with Hugo"
+  author = "FlyDevine"
+  github = "https://github.com/FlyDevine"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+
+[markup]
+  [markup.highlight]
+    noClasses = false

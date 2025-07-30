@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/personal-website/categories/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/categories/general/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/hugo/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/personal/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/posts/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/tags/website/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/posts/my-first-post/</loc>
+    <lastmod>2025-07-30T12:45:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-website/about/</loc>
+    <lastmod>2025-07-30T12:45:43+01:00</lastmod>
+  </url>
+</urlset>
